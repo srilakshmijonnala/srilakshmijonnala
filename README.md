@@ -1,4 +1,7 @@
 ### Hi there 👋
+##### - My name is srilakshmi jonnala, an international student from india.
+##### - i'm studying my master's in applied computer science at northwest missouri state university.
+##### - i completed my bachelor's degree in electronics and communication engineering at vignan's university in the year 2022.
 
 <!--
 **srilakshmijonnala/srilakshmijonnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

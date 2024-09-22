@@ -1,4 +1,4 @@
-👋 Hello, I'm Srilakshmi!
+### 👋 Hello, I'm Srilakshmi!
 🎓 Master’s in Applied Computer Science | 💻 Software Engineer | 🌐 Open to Job Opportunities
 
 🚀 About Me

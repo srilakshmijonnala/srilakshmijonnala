@@ -1,19 +1,22 @@
-### Hi there 👋
-##### - My name is srilakshmi jonnala, an international student from india.
-##### - i'm studying my master's in applied computer science at northwest missouri state university.
-##### - i completed my bachelor's degree in electronics and communication engineering at vignan's university in the year 2022.
+👋 Hello, I'm Srilakshmi!
+🎓 Master’s in Applied Computer Science | 💻 Software Engineer | 🌐 Open to Job Opportunities
 
-<!--
-**srilakshmijonnala/srilakshmijonnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I'm a passionate software engineer with a solid background in Java, Python, mobile app development, and big data technologies. With a Master’s degree in Applied Computer Science and a Bachelor's in Electronic and Communication Engineering, I’ve worked on a wide range of projects, from developing Android apps to analyzing large datasets using Hadoop and MapReduce. I love solving complex problems through code and building efficient, scalable applications.
 
-Here are some ideas to get you started:
+Currently, I’m actively seeking new opportunities to apply my skills and grow professionally. If you're looking for a software engineer with expertise in backend development, data analysis, and mobile app development, let’s connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Skills
+Languages: Java, Python, SQL
+Frameworks & Tools: Git, GitHub, JUnit, Firebase, Android Studio
+Web Development: HTML, CSS, JavaScript, JSP, J2EE
+Big Data: Hadoop, MapReduce, HDFS
+Databases: SQL, Firebase
+Machine Learning: Pandas, NumPy, Matplotlib, Seaborn
+💼 Open to New Opportunities
+I’m actively looking for full-time roles where I can leverage my expertise in software development, mobile computing, and big data. If you think I’d be a good fit for your team, feel free to reach out!
+
+📫 Contact:
+
+Email: srilakshmiravindran1555@gmail.com
+LinkedIn: www.linkedin.com/in/srilakshmi-j-nwmsu

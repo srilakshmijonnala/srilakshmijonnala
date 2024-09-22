@@ -1,7 +1,8 @@
-### 👋 Hello, I'm Srilakshmi!
+## 👋 Hello, I'm Srilakshmi!
 ## 🎓 Master’s in Applied Computer Science | 💻 Software Engineer | 🌐 Open to Job Opportunities
 
-🚀 About Me
+### 🚀 About Me
+
 I'm a passionate software engineer with a solid background in Java, Python, mobile app development, and big data technologies. With a Master’s degree in Applied Computer Science and a Bachelor's in Electronic and Communication Engineering, I’ve worked on a wide range of projects, from developing Android apps to analyzing large datasets using Hadoop and MapReduce. I love solving complex problems through code and building efficient, scalable applications.
 
 Currently, I’m actively seeking new opportunities to apply my skills and grow professionally. If you're looking for a software engineer with expertise in backend development, data analysis, and mobile app development, let’s connect!

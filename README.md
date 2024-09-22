@@ -10,10 +10,15 @@ Currently, I’m actively seeking new opportunities to apply my skills and grow 
 #### 🔧 Technologies & Skills
 
 Languages: Java, Python, SQL
+
 Frameworks & Tools: Git, GitHub, JUnit, Firebase, Android Studio
+
 Web Development: HTML, CSS, JavaScript, JSP, J2EE
+
 Big Data: Hadoop, MapReduce, HDFS
+
 Databases: SQL, Firebase
+
 Machine Learning: Pandas, NumPy, Matplotlib, Seaborn
 
 #### 💼 Open to New Opportunities
@@ -23,4 +28,5 @@ I’m actively looking for full-time roles where I can leverage my expertise in 
 #### 📫 Contact:
 
 Email: srilakshmiravindran1555@gmail.com
+
 LinkedIn: www.linkedin.com/in/srilakshmi-j-nwmsu
